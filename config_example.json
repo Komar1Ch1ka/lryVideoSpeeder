@@ -1,0 +1,10 @@
+{
+  "cookie": "Your-Coolie",
+  "sesskey": "Your-Sesskey",
+  "settings": {
+    "target_progress": 100,
+    "step_progress": 4,
+    "interval_seconds": 0.1,
+    "max_concurrent": 10
+  }
+}
